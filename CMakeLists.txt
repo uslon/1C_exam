@@ -3,4 +3,4 @@ project(1C_exam)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(1C_exam main.cpp)
+add_executable(1C_exam main.cpp bohr.h bohr.cpp)
