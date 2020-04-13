@@ -12,7 +12,7 @@ public:
 
     string add_symbols(const string& s); // add some symbols to existing query
     string new_query(const string& s); // create new query
-    void add_word(const string& s);
+    void add_word(const string& s); // add new word
 
 private:
     struct node;
